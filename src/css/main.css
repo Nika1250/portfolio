@@ -1,0 +1,11 @@
+@import url("./components/_header.css");
+@import url("./components/_about.css");
+@import url("./components/_background.css");
+@import url("./components/_project.css");
+@import url("./components/_social.css");
+@import url("./components/_media.css");
+
+.no-scroll {
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
